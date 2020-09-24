@@ -6,7 +6,7 @@ import Component from './component.js'
 function App() {
   return (
     <div className="App">
-      hello
+      
       <Component />
       <Count name="jus passing" country="jus passing" />
     </div>
