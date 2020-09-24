@@ -17,7 +17,7 @@ import React from 'react'
 function World(){
     return (
         <div>
-        <h1> hello </h1>
+        <h1> Button click counter </h1>
         </div>
     )
 }
